@@ -1,0 +1,6 @@
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\bin\CurrencyExchange_WebService.dll.config
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\bin\CurrencyExchange_WebService.dll
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\bin\CurrencyExchange_WebService.pdb
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\obj\Debug\CurrencyExchange_WebService.dll
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\obj\Debug\CurrencyExchange_WebService.pdb
+C:\Users\Jose\Desktop\CurrencyExchange_WebService\CurrencyExchange_WebService\obj\Debug\CurrencyExchange_WebService.csprojResolveAssemblyReference.cache
